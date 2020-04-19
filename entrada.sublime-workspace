@@ -1,0 +1,787 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Na",
+				"NotADirectoryError\ttype ⟠"
+			],
+			[
+				"na",
+				"__name__\tinstance"
+			],
+			[
+				"r",
+				"run()\tcall ⟠"
+			],
+			[
+				"B",
+				"BODY\tTag"
+			],
+			[
+				"he",
+				"header\tTag"
+			],
+			[
+				"F",
+				"Frame\tclass"
+			],
+			[
+				"BA",
+				"background-color\tproperty"
+			],
+			[
+				"bor",
+				"border-radius\tproperty"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"s",
+				"size\tproperty"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"h",
+				"height\tproperty"
+			],
+			[
+				"t",
+				"title\tAttr"
+			],
+			[
+				"onc",
+				"onclick\tAttr"
+			],
+			[
+				"te",
+				"text-align\tproperty"
+			],
+			[
+				"i",
+				"id\tAttr"
+			],
+			[
+				"p",
+				"padding\tproperty"
+			],
+			[
+				"pri",
+				"print"
+			],
+			[
+				"lis",
+				"lista_proyect"
+			],
+			[
+				"if",
+				"ifmain\tif __name__ == '__main__'"
+			],
+			[
+				"for",
+				"format"
+			],
+			[
+				"a",
+				"after"
+			],
+			[
+				"date",
+				"date"
+			],
+			[
+				"livere",
+				"livereload_plugin\tCreate new LiveReload plugin"
+			],
+			[
+				"text",
+				"textoentrada"
+			],
+			[
+				"tex",
+				"textoentrada"
+			],
+			[
+				"Tk",
+				"Tkinter"
+			],
+			[
+				"wi",
+				"window"
+			],
+			[
+				"g",
+				"groove"
+			],
+			[
+				"co",
+				"configure"
+			],
+			[
+				"BO",
+				"borderwidth"
+			],
+			[
+				"padd",
+				"padding\tproperty"
+			],
+			[
+				"but",
+				"button"
+			],
+			[
+				"bo",
+				"button"
+			],
+			[
+				"tra",
+				"transition\tproperty"
+			],
+			[
+				"b",
+				"button"
+			],
+			[
+				"c",
+				"column-reverse\tflex-direction"
+			],
+			[
+				"flex",
+				"flex-direction\tproperty"
+			],
+			[
+				"transform",
+				"transform-origin\tproperty"
+			],
+			[
+				"tr",
+				"translateX()\ttransform"
+			],
+			[
+				"border",
+				"border-width\tproperty"
+			],
+			[
+				"animation",
+				"animation-direction\tproperty"
+			],
+			[
+				"anima",
+				"animation-fill-mode\tproperty"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"anma",
+				"animation-name\tproperty"
+			],
+			[
+				"ani",
+				"animation-duration\tproperty"
+			],
+			[
+				"pad",
+				"padding-left\tproperty"
+			],
+			[
+				"anmatio",
+				"animation-duration\tproperty"
+			],
+			[
+				"cl",
+				"changeClass"
+			],
+			[
+				"mar",
+				"margin\tproperty"
+			],
+			[
+				"v",
+				"value"
+			],
+			[
+				"margin-",
+				"margin-left\tproperty"
+			],
+			[
+				"align-",
+				"align-content\tproperty"
+			],
+			[
+				"padi",
+				"padding-left\tproperty"
+			],
+			[
+				"aj",
+				"font-size-adjust\tproperty"
+			],
+			[
+				"font-",
+				"font-size-adjust\tproperty"
+			],
+			[
+				"fon",
+				"font-stretch\tproperty"
+			],
+			[
+				"word",
+				"word-break\tproperty"
+			],
+			[
+				"st",
+				"style\tAttr"
+			],
+			[
+				"animation-",
+				"animation-play-state\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"text-",
+				"text-transform\tproperty"
+			],
+			[
+				"pa",
+				"padding-right\tproperty"
+			],
+			[
+				"backgro",
+				"background-color\tproperty"
+			],
+			[
+				"logi",
+				"login"
+			],
+			[
+				"is",
+				"isset"
+			],
+			[
+				"res",
+				"resultado"
+			],
+			[
+				"documentt",
+				"hw_Document_Content"
+			],
+			[
+				"con",
+				"content"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"lo",
+				"loadDoc"
+			],
+			[
+				"func",
+				"function"
+			],
+			[
+				"ons",
+				"onsubmit\tAttr"
+			],
+			[
+				"scr",
+				"script"
+			],
+			[
+				"php",
+				"PHP"
+			],
+			[
+				"z",
+				"z-index\tproperty"
+			],
+			[
+				"align",
+				"align-content\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"op",
+				"op+\topacity: $1;\nfilter: alpha(opacity=$2);"
+			],
+			[
+				"l",
+				"lighten\tbackground-blend-mode"
+			],
+			[
+				"bord",
+				"border-width\tproperty"
+			],
+			[
+				"borde",
+				"border-color\tproperty"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"ge",
+				"getElementById"
+			],
+			[
+				"font-s",
+				"font-size\tproperty"
+			],
+			[
+				"fo",
+				"font-size\tproperty"
+			],
+			[
+				"over",
+				"overflow-y\tproperty"
+			],
+			[
+				"text-de",
+				"text-decoration-color\tproperty"
+			],
+			[
+				"color",
+				"text-decoration-color\tproperty"
+			],
+			[
+				"po",
+				"pointer\tcursor"
+			],
+			[
+				"cur",
+				"cursor\tproperty"
+			],
+			[
+				"bACK",
+				"background-size\tproperty"
+			],
+			[
+				"u",
+				"url()\tbackground-image"
+			],
+			[
+				"bCK",
+				"background-repeat\tproperty"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"wh",
+				"width\tproperty"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"pos",
+				"position\tproperty"
+			],
+			[
+				"ma",
+				"margin\tproperty"
+			],
+			[
+				"Ba",
+				"background-color\tproperty"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"ali",
+				"text-align\tproperty"
+			],
+			[
+				"di",
+				"div\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "login.py",
+			"settings":
+			{
+				"buffer_size": 142,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: gpsistem"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"file",
+				"Set Syntax: Batch File"
+			],
+			[
+				"Package Control: Ru",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: list",
+				"Package Control: List Packages"
+			],
+			[
+				"LiveReload: Enable/disable plugins",
+				"LiveReload: Enable/disable plug-ins"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 143.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/hermo/AppData/Roaming/Sublime Text 3/Packages/Emmet/Default (Windows).sublime-keymap",
+		"/C/Users/hermo/AppData/Roaming/Sublime Text 3/Packages/Jedi - Python autocompletion/sublime_jedi.sublime-settings",
+		"/C/Users/hermo/AppData/Roaming/Sublime Text 3/Packages/Jedi - Python autocompletion/Default.sublime-keymap",
+		"/C/Users/hermo/AppData/Roaming/Sublime Text 3/Packages/User/sublime_jedi.sublime-settings",
+		"/C/xampp/htdocs/web/boot/boot.html",
+		"/C/Users/hermo/Dropbox/Tutos_Programacion/Python/libflask/app.py",
+		"/C/Users/hermo/OneDrive/Escritorio/elephant.py",
+		"/C/Users/hermo/Dropbox/Tutos_Programacion/Python/libjson/ter.json",
+		"/C/Users/hermo/OneDrive/Escritorio/mercantilapi/API Payment V2.postman_collection.json",
+		"/C/Users/hermo/OneDrive/Escritorio/mercantilapi/AesCipher.php",
+		"/C/Users/hermo/AppData/Roaming/Sublime Text 3/Packages/KiteSublime/KiteSublime.sublime-settings",
+		"/C/Users/hermo/AppData/Local/Temp/kite_tutorial.py",
+		"/C/Users/hermo/AppData/Local/Programs/Python/Python37/Scripts/pyinstaller.exe",
+		"/C/Users/hermo/OneDrive/Escritorio/ter.json",
+		"/C/Users/hermo/OneDrive/Escritorio/ter.xml",
+		"/G/AesCipher.php",
+		"/C/xampp/htdocs/web/boby.html",
+		"/C/Users/hermo/Dropbox/Tutos_Programacion/Python/proyectos/HorasDeEstudio/reloj.py",
+		"/C/Users/hermo/Dropbox/htdoc/aba/index.php",
+		"/C/Users/hermo/OneDrive/Escritorio/do.pckl",
+		"/C/Users/hermo/OneDrive/Escritorio/fs.py",
+		"/C/xampp/htdocs/web/prub/CSS/celprumedia.css",
+		"/C/xampp/htdocs/web/prub/CSS/prumedia.css",
+		"/C/xampp/htdocs/web/prub/index.php",
+		"/C/xampp/htdocs/web/prub/CSS/pru.css",
+		"/C/xampp/htdocs/web/prub/pruebalogin.php",
+		"/C/xampp/htdocs/web/prub/funjs/funcion.js",
+		"/C/Users/hermo/Dropbox/ProyectosWeb/html/Vitae/index.php",
+		"/D/sapportal.cantv.com.ve-irj-servlet-prt-portal-prtroot-pc.mdi",
+		"/C/Users/hermo/Dropbox/Tutos_Programacion/Python/proyectos/HorasDeEstudio/reloj.pyw",
+		"/C/Users/hermo/OneDrive/Escritorio/PruebasGenerales.py",
+		"/D/Karaoke/burr",
+		"/C/Users/hermo/Dropbox/Tutos_Programacion/Python/proyectos/Nexus/ClaseCarnet.py",
+		"/C/Users/hermo/Dropbox/Tutos_Programacion/Python/proyectos/Nexus/funciones.py",
+		"/C/Users/hermo/OneDrive/Escritorio/uzibock.py",
+		"/C/Users/hermo/OneDrive/Escritorio/PremedsB.csv",
+		"/C/Users/hermo/OneDrive/Escritorio/base.txt",
+		"/C/Users/hermo/OneDrive/Documentos/tkinter/Nexus/ClaseCarnet.py",
+		"/C/Users/hermo/OneDrive/Documentos/tkinter/Nexus/funciones.py",
+		"/C/Users/hermo/OneDrive/Documentos/tkinter/Nexus/Nexusmain.pyw",
+		"/C/Users/hermo/AppData/Local/Programs/Python/Python37/Lib/tkinter/scrolledtext.py",
+		"/C/Users/hermo/Dropbox/bot/randompru.py",
+		"/C/Users/hermo/Dropbox/bot/pruebabotmanza.py",
+		"/C/Users/hermo/Dropbox/Tutos_Programacion/Python/proyectos/HorasDeEstudio/conteo.txt",
+		"/C/Users/hermo/OneDrive/Documentos/tkinter/Nexus/Nexusmain.py",
+		"/C/Users/hermo/Dropbox/medicina/cursopremedico/PREMEDICO 2019 sB.csv",
+		"/C/Users/hermo/Dropbox/medicina/cursopremedico/PREMEDICO 2019 sA.csv",
+		"/C/Users/hermo/AppData/Local/Programs/Python/Python37/Lib/tkinter/filedialog.py",
+		"/C/Users/hermo/Dropbox/medicina/cursopremedico/PREMEDICO 2019.csv",
+		"/C/Users/hermo/AppData/Local/Programs/Python/Python37/Lib/scapy/config.py",
+		"/C/Users/hermo/OneDrive/Escritorio/Unsave.py",
+		"/C/Users/hermo/OneDrive/Escritorio/cale.html",
+		"/C/Users/hermo/OneDrive/Escritorio/scanwifi.py",
+		"/C/Users/hermo/Dropbox/respaldo/Documents/bot/pruebabotmanza.py",
+		"/C/xampp/tomcat/temp/safeToDelete.tmp",
+		"/C/Users/hermo/Dropbox/Tutos_Programacion/Python/proyectos/reloj/env/Scripts/activate",
+		"/C/Users/hermo/Dropbox/Tutos_Programacion/Python/proyectos/reloj/env/Scripts/activate.bat",
+		"/C/Users/hermo/AppData/Local/Programs/Python/Python37/Lib/site-packages/kivy/clock.py",
+		"/C/Users/hermo/AppData/Local/Programs/Python/Python37/Lib/site-packages/kivy/base.py",
+		"/C/Users/hermo/AppData/Local/Programs/Python/Python37/Lib/site-packages/kivy/app.py",
+		"/C/Users/hermo/Dropbox/Tutos_Programacion/Python/libkivy/kiv.py",
+		"/C/xampp/htdocs/web/prub/paginas/test1.html",
+		"/C/Users/hermo/Dropbox/Tutos_Programacion/Python/libkivy/kivy/animation.py",
+		"/C/Users/hermo/Dropbox/Tutos_Programacion/Python/libkivy/kivy/atlas.py",
+		"/C/Users/hermo/Dropbox/Tutos_Programacion/Python/tmultihilos/prueba0hilos.pyw",
+		"/C/Users/hermo/Dropbox/Tutos_Programacion/Python/tmultihilos/prueba0hilos.py",
+		"/C/Users/hermo/Dropbox/Tutos_Programacion/Python/tmultihilos/prueba.py",
+		"/C/Users/hermo/Dropbox/Tutos_Programacion/Python/libkivy/kivy/app.py",
+		"/C/Users/hermo/AppData/Local/Programs/Python/Python37/Lib/site-packages/kivy/_clock.cp37-win_amd64.pyd",
+		"/C/Users/hermo/AppData/Local/Programs/Python/Python37/Lib/site-packages/kivy/_clock.cp37-win_amd64.c",
+		"/C/Users/hermo/AppData/Local/Programs/Python/Python37/Lib/kivy/app.py",
+		"/C/Users/hermo/AppData/Local/Programs/Python/Python37/Lib/kivy/__init__.py",
+		"/C/Users/hermo/Dropbox/Tutos_Programacion/Python/DocModulos/printmodulos.py",
+		"/C/Users/hermo/AppData/Local/Programs/Python/Python37/Lib/datetime.py",
+		"/C/Users/hermo/AppData/Local/Programs/Python/Python37/Lib/_sitebuiltins.py",
+		"/C/Users/hermo/AppData/Local/Programs/Python/Python37/Lib/__pycache__/datetime.cpython-37.pyc",
+		"/C/Users/hermo/AppData/Roaming/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
+		"/C/xampp/phpMyAdmin/libraries/classes/Server/Users.php",
+		"/C/Users/hermo/Dropbox/Tutos_Programacion/Python/ttiempo/timeprueba1.py",
+		"/C/Users/hermo/AppData/Roaming/Sublime Text 3/Packages/User/add_date.py",
+		"/C/Users/hermo/AppData/Roaming/Sublime Text 3/Packages/User/gpsistem.sublime-snippet",
+		"/C/Program Files/Sublime Text 3/sublime.py",
+		"/C/Program Files/Sublime Text 3/sublime_plugin.py",
+		"/C/Program Files/Sublime Text 3/sublime.pyc",
+		"/C/Program Files/Sublime Text 3/Packages/Python.sublime-package",
+		"/C/Users/hermo/AppData/Roaming/Sublime Text 3/Packages/User/Plain text.sublime-settings",
+		"/C/Users/hermo/AppData/Roaming/Sublime Text 3/Installed Packages/AutoFileName.sublime-package",
+		"/C/Users/hermo/AppData/Roaming/Sublime Text 3/Installed Packages/0_package_control_loader.sublime-package",
+		"/C/Users/hermo/AppData/Roaming/Sublime Text 3/Installed Packages/PyV8/win64-p3/config.json",
+		"/C/Users/hermo/AppData/Roaming/Sublime Text 3/Installed Packages/PyV8/win64-p3/__MACOSX/._PyV8.py",
+		"/C/Users/hermo/AppData/Roaming/Sublime Text 3/Installed Packages/PyV8/win64-p3/__MACOSX/.__PyV8.pyd",
+		"/C/Users/hermo/AppData/Roaming/Sublime Text 3/Backup/20190428080320/ColorPicker/sublimecp.py",
+		"/C/Users/hermo/AppData/Roaming/Sublime Text 3/Lib/Python37/Lib/__pycache__/_strptime.cpython-37.pyc",
+		"/C/Users/hermo/AppData/Roaming/Sublime Text 3/Packages/LiveReload/snippets/livereload_plugin.sublime-snippet",
+		"/C/Users/hermo/AppData/Roaming/Sublime Text 3/Packages/PyV8/win64-p3/config.json",
+		"/C/Users/hermo/AppData/Roaming/Sublime Text 3/Packages/PyV8/win64-p3/_PyV8.pyd",
+		"/C/Users/hermo/AppData/Roaming/Sublime Text 3/Packages/LiveReload/snippets/livereload_jade.sublime-snippet",
+		"/C/Windows/WinSxS/wow64_microsoft.powershell.pester_31bf3856ad364e35_10.0.17134.1_none_c407a14e115c0344/Describe.snippets.ps1xml",
+		"/C/Windows/WinSxS/amd64_microsoft.powershell.pester_31bf3856ad364e35_10.0.17134.1_none_b9b2f6fbdcfb4149/ShouldThrow.snippets.ps1xml",
+		"/C/Windows/WinSxS/wow64_microsoft.powershell.pester_31bf3856ad364e35_10.0.17134.1_none_c407a14e115c0344/It.snippets.ps1xml",
+		"/C/Windows/WinSxS/amd64_microsoft.powershell.pester_31bf3856ad364e35_10.0.17134.1_none_b9b2f6fbdcfb4149/ShouldContain.snippets.ps1xml",
+		"/C/Windows/WinSxS/wow64_microsoft.powershell.pester_31bf3856ad364e35_10.0.17134.1_none_c407a14e115c0344/Context.snippets.ps1xml",
+		"/C/Users/hermo/AppData/Roaming/Sublime Text 3/Packages/LiveReload/snippets/livereload_html.sublime-snippet",
+		"/C/xampp/tomcat/webapps/examples/jsp/xml/xml.jsp",
+		"/C/xampp/php/CompatInfo/Renderer/Xml.php",
+		"/C/Users/hermo/AppData/Roaming/Sublime Text 3/Packages/User/encoding python.sublime-snippet",
+		"/C/Users/hermo/AppData/Roaming/Sublime Text 3/Packages/User/Emmet.sublime-settings",
+		"/C/Users/hermo/OneDrive/Documentos/tkinter/Nexus/pruebas.py",
+		"/C/Users/hermo/AppData/Roaming/Sublime Text 3/Packages/User/Python37.sublime-build",
+		"/C/Users/hermo/AppData/Roaming/Sublime Text 3/Local/Session.sublime_session",
+		"/C/Users/hermo/AppData/Roaming/Sublime Text 3/Local/Auto Save Session.sublime_session",
+		"/C/Program Files/Sublime Text 3/python33.dll",
+		"/C/Program Files/Sublime Text 3/crash_reporter.exe",
+		"/C/Program Files/Sublime Text 3/Packages/C++.sublime-package",
+		"/C/Program Files/Sublime Text 3/Packages/ActionScript.sublime-package",
+		"/C/Users/hermo/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Program Files/Sublime Text 3/Packages/ShellScript.sublime-package",
+		"/C/Program Files/Sublime Text 3/sublime_text.exe",
+		"/C/Program Files/Sublime Text 3/changelog.txt",
+		"/C/Program Files/Sublime Text 3/msvcr100.dll",
+		"/C/Users/hermo/AppData/Roaming/Sublime Text 3/Packages/User/oscrypto-ca-bundle.crt",
+		"/C/Users/hermo/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.last-run",
+		"/C/Users/hermo/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.merged-ca-bundle",
+		"/C/Users/hermo/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/C/Users/hermo/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.user-ca-bundle",
+		"/C/Users/hermo/AppData/Roaming/Sublime Text 3/Packages/AutoFileName/autofilename.sublime-settings",
+		"/C/Users/hermo/Dropbox/Tutos_Programacion/Python/geekforgeek/dics/ñ.txt",
+		"/C/Users/hermo/Dropbox/Tutos_Programacion/Python/geekforgeek/dics/z.txt"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "login.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 142,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								92,
+								92
+							]
+						],
+						"settings":
+						{
+							"show_definitions": false,
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 38.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 157.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python 3/Python3.sublime-build",
+	"project": "entrada.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\hermo\\OneDrive\\Escritorio\\flask\\entrada.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 166.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
