@@ -1,4 +1,9 @@
 {% extends 'comun.html'%}
 {% block body %}
 <div><h3>hi</h3></div>
+<div><font color="white">
+	{% for i in este.split(','): %}
+		<div>{{i}}</div>
+	{% endfor %}
+</font></div>
 {%endblock%}
